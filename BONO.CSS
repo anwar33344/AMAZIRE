@@ -9,8 +9,8 @@ body {
     
 }
 h1 {
-    background-color: rgb(3, 84, 3);
-    color: rgb(85, 8, 8);
+    background-color: rgb(70, 3, 84);
+    color: rgba(181, 181, 4, 0.788);
     position: absolute;
     left: 30%;
     top: 10%;
@@ -21,19 +21,19 @@ form {
     top: 30%;
 }
 label {
-    background-color: rgb(3, 81, 3);
+    background-color: rgb(81, 3, 65);
     font-size: large;
 }
 button {
-    background-color: rgb(2, 65, 2);
+    background-color: rgb(121, 6, 127);
     
     
 }
 .message {
     font-size: 2em;
-    color: rgb(5, 122, 15);
+    color: rgb(122, 5, 118);
     text-align: center;
-    background-color: rgb(190, 6, 15);
+    background-color: rgb(181, 167, 8);
 }
 input::placeholder {
     font-size: 5vw;
@@ -52,8 +52,8 @@ input,button {
 }
 h2 {
     font: size 80px;
-    background-color: rgb(2, 74, 13);
+    background-color: rgb(50, 2, 74);
     box-shadow: 0px 1px 1px;
-    color: rgb(120, 6, 11);
+    color: rgb(142, 145, 6);
     text-align: center;
 }
