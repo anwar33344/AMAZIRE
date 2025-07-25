@@ -1,5 +1,10 @@
 body {
-    background-image: url('https://www.arabsauto.com/wp-content/uploads/2017/12/BYD-e6-Morocco-2017.jpg');
+    background-image: url('https://wallpapercave.com/wp/wp7458575.jpg');
+    max-width: 100%;
+    height: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    
 
     
 }
@@ -29,4 +34,26 @@ button {
     color: rgb(5, 122, 15);
     text-align: center;
     background-color: rgb(190, 6, 15);
+}
+input::placeholder {
+    font-size: 5vw;
+    color: #333;
+    font-weight: bold;
+    text-align: center;
+}
+input,button {
+    font-size: 16px;
+    padding: 3vw;
+    margin: 10px 0;
+   
+   
+    
+    border: 1px solid #222;
+}
+h2 {
+    font: size 80px;
+    background-color: rgb(2, 74, 13);
+    box-shadow: 0px 1px 1px;
+    color: rgb(120, 6, 11);
+    text-align: center;
 }
