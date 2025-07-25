@@ -1,5 +1,10 @@
 body {
   background-image: url('https://res.cloudinary.com/teepublic/image/private/s--KgrtiiP3--/t_Preview/t_watermark_lock/b_rgb:000000,c_limit,f_auto,h_630,q_90,w_630/v1679068689/production/designs/41315845_0.jpg');
+  min-width: 100%;
+  height: auto;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 
 }
 h1 {
