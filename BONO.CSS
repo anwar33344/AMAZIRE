@@ -13,12 +13,12 @@ h1 {
     color: rgb(85, 8, 8);
     position: absolute;
     left: 30%;
-    top: 30%;
+    top: 10%;
 }
 form {
     position: absolute;
-    left: 40%;
-    top: 50%;
+    left: 30%;
+    top: 30%;
 }
 label {
     background-color: rgb(3, 81, 3);
